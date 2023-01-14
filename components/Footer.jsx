@@ -25,18 +25,13 @@ const Footer = () => (
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
           />
-         
           <span className="font-normal text-[16px] text-white">
           <a href='https://4v161i1tc17.typeform.com/to/mgLgtCEo'> Form </a>
           </span>
-          
-          
         </button>
       </div>
-
       <div className="flex flex-col">
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
-
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px] text-white">
             devloopers
@@ -44,7 +39,6 @@ const Footer = () => (
           <p className="font-normal text-[14px] text-white opacity-50">
             Copyright © 2023 devloopers. All rights reserved.
           </p>
-
           <div className="flex gap-4">
             {socials.map((social) => (
               <img
