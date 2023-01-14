@@ -26,7 +26,7 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-            <a href='https://4v161i1tc17.typeform.com/to/mgLgtCEo'>Form</a>
+            <a href="https://4v161i1tc17.typeform.com/to/mgLgtCEo">Form</a>
           </span>
         </button>
       </div>
