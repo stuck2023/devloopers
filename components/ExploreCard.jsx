@@ -34,7 +34,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           />
         </div>
         <p className="font-normal text-[16px] leading-[20.16px] text-white uppercase">
-         
+          <a href="https://4v161i1tc17.typeform.com/to/mgLgtCEo">Start</a>
         </p>
         <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
           {title}
