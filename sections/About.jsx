@@ -24,19 +24,19 @@ const About = () => (
       >
         <span className="font-extrabold text-white">devloopers</span> is a creative
         agency with an aim to provide best IT services to the users. We aim to develope
-        high quality softwares for your business - 
+        high quality softwares for your business -
         {' '}
         <span className="font-extrabold text-white">
-        web, android & ios.
+          web, android & ios.
         </span>{' '}
-        <br></br>
-        <br></br>
-        Having an online presence is something that you need to have to 
+        <br />
+        <br />
+        Having an online presence is something that you need to have to
         compete in the market.
         {' '}
         <span className="font-extrabold text-white">We </span>are here for that purpose.
         {' '}
-        <span className="font-extrabold text-white"> Build</span> your business with 
+        <span className="font-extrabold text-white"> Build</span> your business with
         us.
       </motion.p>
 

@@ -30,7 +30,7 @@ const Feedback = () => (
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
           “Our team is well updated with the latest trends in the tech market.
-          Our team conviction is invinsible, with on time 
+          Our team conviction is invinsible, with on time
           shipping of the product. Happy to work with such team.”
         </p>
       </motion.div>
